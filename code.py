@@ -15,4 +15,3 @@ def my_map(func, input_list):
 input_list = [1, 2, 3, 4]
 
 result = my_map(square, input_list)
-print(result)
